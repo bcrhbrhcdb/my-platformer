@@ -4,5 +4,20 @@
   },
   "dependencies": {
     "servor": "^4.0.2"
-  }
+  },
+  "name": "my-platformer",
+  "description": "A project I am working on to practice javascript",
+  "version": "0.1.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcrhbrhcdb/my-platformer.git"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcrhbrhcdb/my-platformer/issues"
+  },
+  "homepage": "https://github.com/bcrhbrhcdb/my-platformer#readme"
 }
